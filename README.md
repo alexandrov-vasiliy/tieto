@@ -1,0 +1,3 @@
+# tieto
+npm install
+node server.js
